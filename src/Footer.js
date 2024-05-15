@@ -9,11 +9,11 @@ export default function Footer() {
       This project was coded by
         <a href="https://github.com/lilbxbori" target="_blank" rel="noreferrer">{""} Marilu Chacon</a
         >, is open-sourced on
-        <a href="https://github.com/lilbxbori/Weather-React-App" target="_blank" rel="noreferrer"
+        <a href="https://github.com/lilbxbori/shecodes-react-weather-app" target="_blank" rel="noreferrer"
           >{""} GitHub</a
         >
         {""} and hosted on
-        <a href="https://weather-react-app-mchacon.netlify.app" target="_blank" rel="noreferrer"
+        <a href="https://shecodes-react-weather-app-mchacon.netlify.app/" target="_blank" rel="noreferrer"
           >{""} Netlify</a
         >
       </div>
